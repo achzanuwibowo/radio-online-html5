@@ -1,4 +1,4 @@
-(function(){var url="http://static.radioforge.com/radio2014/html5.html";var current_location=window.location.hostname;var currentTime=Date.now()||+new Date();if(typeof id!='undefined'){url+="?id="+id;}
+(function(){var url="https://static.radioforge.com/radio2014/html5.html";var current_location=window.location.hostname;var currentTime=Date.now()||+new Date();if(typeof id!='undefined'){url+="?id="+id;}
 else
 {url+="?id="+currentTime;}
 if(typeof radiostream!='undefined'){url+="&url="+radiostream;}
